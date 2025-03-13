@@ -69,3 +69,14 @@ void display(){
     cout << "Jumlah pass = "
 }
 
+int main(){
+    input(
+
+        bubbleSortArray();
+            display();
+
+            system("pause");
+            return 0;
+        
+    )
+}
